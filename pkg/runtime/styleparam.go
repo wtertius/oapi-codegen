@@ -24,7 +24,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/deepmap/oapi-codegen/pkg/types"
+	"github.com/wtertius/oapi-codegen/pkg/types"
 )
 
 // Given an input value, such as a primitive type, array or object, turn it

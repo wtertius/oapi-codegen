@@ -736,8 +736,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/deepmap/oapi-codegen/pkg/runtime"
-	openapi_types "github.com/deepmap/oapi-codegen/pkg/types"
+	"github.com/wtertius/oapi-codegen/pkg/runtime"
+	openapi_types "github.com/wtertius/oapi-codegen/pkg/types"
 	"github.com/getkin/kin-openapi/openapi3"
 	"github.com/go-chi/chi"
 	"github.com/labstack/echo/v4"

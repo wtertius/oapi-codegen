@@ -4,7 +4,7 @@
 package packageA
 
 import (
-	externalRef0 "github.com/deepmap/oapi-codegen/internal/test/externalref/packageB"
+	externalRef0 "github.com/wtertius/oapi-codegen/internal/test/externalref/packageB"
 )
 
 // ObjectA defines model for ObjectA.
